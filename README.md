@@ -1,4 +1,4 @@
-# invoiceApp
+# Doughnut App
 
 A Flutter app for your favourite snacks!
 
